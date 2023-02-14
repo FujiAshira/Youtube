@@ -4,4 +4,4 @@
 
 Can download youtube videos with resolution and file extensions that avaiable + custom path download
 
-![Example](https://github.com/FujiAshira48261571644143/Youtube/blob/main/y.png?raw=true)
+![Example](https://github.com/FujiAshira/Youtube/blob/main/y.png?raw=true)
